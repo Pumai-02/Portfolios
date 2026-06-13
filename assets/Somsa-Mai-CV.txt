@@ -1,0 +1,21 @@
+Somsa Mai
+Junior Software Developer
+
+Summary
+Passionate Software Developer specializing in Java, PHP, Flutter, and Linux Administration.
+
+Technical Skills
+Java, PHP,Laravel, JavaScript, Dart, SQL, Spring Boot(Just-Learn), Flutter, Bootstrap, MySQL, PostgreSQL, Git, GitHub, VS Code, IntelliJ IDEA, Linux
+
+Projects
+Event Reminder System - Java, Data Structures, File Handling
+Banking Management System - Java OOP, Abstract Classes
+POS System - Java, MySQL
+Product Selling Website - PHP, MySQL, Bootstrap
+Flutter Mobile Application - Flutter, REST API
+
+Education
+Bachelor of Information Technology - Current Student
+
+Contact
+Email: somsa.mai@gmail.com
